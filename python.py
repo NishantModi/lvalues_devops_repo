@@ -1,1 +1,1 @@
-print "This is from python file")
+print ("This is from python file")
